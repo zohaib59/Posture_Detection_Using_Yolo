@@ -1,0 +1,6 @@
+!pip -q install ultralytics
+!pip -q install opencv-python
+!pip -q install pandas
+!pip -q install scikit-learn
+!pip -q install pyyaml
+!pip -q install tqdm
